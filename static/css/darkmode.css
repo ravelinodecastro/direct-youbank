@@ -1,0 +1,32 @@
+.bg-gray-yb {
+    background-color:#3e3e3e !important;
+}
+.bg-white {
+    background-color: #555555!important;
+}
+.payment-mode-container{
+    background-color: #555555!important;
+     border-color: #eeee!important;
+}
+.text-muted{
+    color: #eee!important;
+}
+.text-dark, .label-floater, .nav-link, .icon-youbank-icon-notifications, .icon-youbank-icon-home, .icon-youbank-icon-menu,  .icon-youbank-icon-search{
+    color: #fff!important;
+}
+a.text-dark:hover, .nav-link:hover, .text-dark:hover, 
+a.text-dark:focus, .nav-link:focus, .text-dark:focus
+{
+    color: #eeee!important;
+}
+.floating-input, .floating-select{
+    border-color: #fff;
+}
+
+hr {
+    border-top: 1px solid rgba(255,255,255,.1);
+}
+
+i[class^='color-yb'], i[class*=' color-yb']{
+    color: #fff;
+}
